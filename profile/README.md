@@ -8,7 +8,7 @@ We help institutions build and nurture internal Open Source cultures.
 
 ### 🌈 Contribution guidelines
 
-We welcome contributions from the community to all of our open source repositories, and uphold the Contributor Covenant to ensure a friendly, welcoming environment for all contributors.
+We welcome contributions from the community to all of our open source repositories, and uphold the [Contributor Covenant](https://github.com/ologistio/.github/blob/main/CODE_OF_CONDUCT.md) to ensure a friendly, welcoming environment for all contributors.
 
 We're big fans of [nix](https://nixos.org/), [Python](https://www.python.org/) and [Github Actions](https://github.com/features/actions); if that gets you excited, we're looking forward to your first pull request.
 
