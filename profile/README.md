@@ -14,8 +14,8 @@ We're big fans of [nix](https://nixos.org/), [Python](https://www.python.org/) a
 
 ### 👩‍💻 Useful resources
 
-- Interested in [working with us](https://ologist.io/work-with-us)?
-- Interested in [joining the team](https://ologist.io/talent)?
+- Interested in [working with us](https://ologist.io/)?
+- Interested in [joining the team](https://ologist.io/contact)?
 
 ### 🍿 Fun facts
 
