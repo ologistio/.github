@@ -1,0 +1,13 @@
+{
+    "name": "Ologist Workflow",
+    "description": "Ologist CI workflow template.",
+    "iconName": "git-pull-request",
+    "categories": [
+        "Infrastructure"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
