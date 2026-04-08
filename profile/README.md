@@ -5,7 +5,7 @@ We help institutions build and nurture internal Open Source cultures.
 ### 🚀 Current projects
 
 - [<img style="float: right;" src="https://magi.sh/favicon.ico" width="18">](https://magi.sh) [Magi](https://magi.sh) - A batteries-included, cloud-agnostic framework for doing infrastructure-as-code without reinventing the wheel
-- [<img style="float: right;" src="https://magi.sh/favicon.ico" width="18">](https://github.com/ologistio/indigo-cli) [Magi](https://github.com/ologistio/indigo-cli) - Compliance-as-Code framework for hypermodern organisations
+- [<img style="float: right;" src="https://magi.sh/favicon.ico" width="18">](https://github.com/ologistio/indigo-cli) [Indigo](https://github.com/ologistio/indigo-cli) - Compliance-as-Code framework for hypermodern organisations
 
 ### 🌈 Contribution guidelines
 
